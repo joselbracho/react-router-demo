@@ -20,10 +20,6 @@ This repository is a monorepo containing the following packages:
 - Create a clase component.
 - Consume at least 2 endpoints.
 
-## API endpoints
-
-Available endpoints:
-
 
 ## Live demo
 
